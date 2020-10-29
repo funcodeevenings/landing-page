@@ -1,0 +1,23 @@
+body, html {
+  height: 100%;
+}
+.bg {
+  /* The image used */
+  background-image: url("images/ph.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card-header{font-size: 20px; background-color:cyan; color:black; font-family:Stencil Std, fantasy;}
+
+h1{font-family:Blippo, fantasy;}
+.badge{background-color:black;color:white;}
+.alert{color:maroon;}
+h4{font-family: URW Chancery L, cursive;}
+.below{background-color:lightblue;}
+div div #kk{background-color:blue;}
